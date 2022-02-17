@@ -1,0 +1,14 @@
+.table-header {
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+}
+
+.table-header tr {
+  text-align: left;
+  font-weight: bold;
+  color: #fff;
+  background-color: #1447a7;
+
+  td {
+    padding: 1.2rem 1.5rem;
+  }
+}

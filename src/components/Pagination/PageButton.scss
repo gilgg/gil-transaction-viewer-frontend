@@ -1,0 +1,19 @@
+.page-button {
+  height: 50px;
+  width: 50px;
+  margin: 0 0.2rem;
+  font-weight: bold;
+  color: #fff;
+  background-color: #1447a7;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  cursor: pointer;
+
+  &.active {
+    background-color: #6d9bf0;
+  }
+
+  &.more-pages {
+    cursor: auto;
+  }
+}

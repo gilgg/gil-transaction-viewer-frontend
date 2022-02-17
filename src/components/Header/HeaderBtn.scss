@@ -1,0 +1,13 @@
+@import "../../sass/general";
+
+.btn {
+  margin-right: 1rem;
+  color: #333;
+  background-color: sandybrown;
+  border: 1px solid transparent;
+  border-radius: $header-round-border-radius;
+
+  &:hover {
+    background-color: rgb(209, 132, 64);
+  }
+}

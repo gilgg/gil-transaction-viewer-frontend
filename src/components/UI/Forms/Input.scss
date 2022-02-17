@@ -1,0 +1,22 @@
+@import "../../../sass/fonts";
+@import "../../../sass/general";
+
+input {
+  padding: 1rem;
+  font-family: $font-family;
+  outline: none;
+  border: 1px solid #aaa;
+  border-radius: $theme-border-radius;
+}
+
+.read-only {
+  color: #aaa;
+  cursor: auto;
+}
+
+select {
+  width: 185px;
+  padding: 1rem;
+  border: 1px solid #aaa;
+  border-radius: $theme-border-radius;
+}

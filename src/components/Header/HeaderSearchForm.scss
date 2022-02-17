@@ -1,0 +1,27 @@
+@import "../../sass/general";
+@import "../../sass/fonts";
+
+.search-form {
+  button {
+    margin-right: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0 5px 5px 0;
+
+    &:hover {
+      background-color: rgb(209, 132, 64);
+    }
+  }
+
+  input {
+    padding: 1rem;
+    font-family: $font-family;
+    outline: none;
+    border: 1px solid #aaa;
+    border-right: none;
+    border-radius: 5px 0 0 5px;
+  }
+
+  select {
+    border-radius: $header-round-border-radius;
+  }
+}

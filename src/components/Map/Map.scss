@@ -1,0 +1,16 @@
+.map-container {
+  height: 300px;
+  width: 100%;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.map-unavailable {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 100%;
+  font-size: 2.4rem;
+  border-radius: 5px;
+}

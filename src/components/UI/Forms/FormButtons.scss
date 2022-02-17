@@ -1,0 +1,30 @@
+.add-edit-form-buttons {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 2rem;
+  width: 75%;
+
+  button {
+    border: none;
+    border-radius: 50px;
+  }
+}
+
+.btn-save {
+  color: #fff;
+  background-color: #53a942;
+
+  &:hover {
+    background-color: #418833;
+  }
+}
+
+.btn-delete-transaction,
+.btn-delete-customer {
+  color: #fff;
+  background-color: rgb(207, 65, 55);
+
+  &:hover {
+    background-color: rgb(156, 56, 48);
+  }
+}

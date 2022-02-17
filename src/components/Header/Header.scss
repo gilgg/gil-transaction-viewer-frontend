@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 1850px;
+  margin: 10rem auto 0 auto;
+  font-size: 3.2rem;
+
+  &-title-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 4rem;
+  }
+
+  &-title {
+    margin-right: 1rem;
+  }
+
+  &-title-logo {
+    height: 6rem;
+    width: 6rem;
+  }
+}

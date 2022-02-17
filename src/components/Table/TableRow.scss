@@ -1,0 +1,17 @@
+.table-row {
+  padding: 2rem 2rem;
+  border-bottom: 1px solid #ddd;
+
+  &.active {
+    font-weight: 500;
+    color: #1447a7;
+  }
+
+  &:nth-of-type(even) {
+    background-color: #eee;
+  }
+
+  td {
+    padding: 0.8rem 1.5rem;
+  }
+}

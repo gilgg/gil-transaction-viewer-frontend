@@ -1,0 +1,13 @@
+@import "../../sass/fonts";
+
+.header-dashboard {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 1rem;
+
+  &-section-1 {
+    display: flex;
+    align-items: flex-end;
+  }
+}
