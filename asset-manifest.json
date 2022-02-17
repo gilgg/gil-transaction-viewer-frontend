@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/transactions-viewer-frontend/static/css/main.e32dff08.css",
+    "main.js": "/transactions-viewer-frontend/static/js/main.cefcd7dd.js",
+    "index.html": "/transactions-viewer-frontend/index.html",
+    "main.e32dff08.css.map": "/transactions-viewer-frontend/static/css/main.e32dff08.css.map",
+    "main.cefcd7dd.js.map": "/transactions-viewer-frontend/static/js/main.cefcd7dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e32dff08.css",
+    "static/js/main.cefcd7dd.js"
+  ]
+}
